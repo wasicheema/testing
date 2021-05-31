@@ -3,7 +3,7 @@ FROM debian:wheezy
 MAINTAINER Henrik Sachse <t3x7m3@posteo.de>
 
 #############################################
-# ApacheDS installation
+## ApacheDS installation
 #############################################
 
 ENV APACHEDS_VERSION 2.0.0-M19
